@@ -1,10 +1,10 @@
 # is24export
 
-Exportfunktion für Exposes auf immobilienscout24.de
+Exportfunktion für Exposes auf [immobilienscout24.de](https://www.immobilienscout24.de/)
 
 ## Installation
 
-1. Download des Repository als ZIP-Datei
+1. Download des Repository als [ZIP-Datei](https://github.com/trbznk/is24export/archive/refs/heads/main.zip)
 2. Entspacken der ZIP-Datei
 3. Google Chrome öffenen und in 'Erweiterungen verwalten' wechseln
 4. 'Entwicklermodus' aktivieren
@@ -12,7 +12,7 @@ Exportfunktion für Exposes auf immobilienscout24.de
 
 ## Benutzung
 
-Nach der Installation bekommst du auf jeder Expose-Seite (https://www.immobilienscout24.de/expose/*) einen `Export` Button.
+Nach der Installation bekommst du auf jeder Expose-Seite (`https://www.immobilienscout24.de/expose/*`) einen `Export` Button.
 
 ![Export Button](images/export_button.png)
 
